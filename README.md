@@ -3,9 +3,9 @@
 
 - 🌱 I’m currently learning **Redux, React Native**
 
-- 📫 How to reach me **zuhayersiddique162@gmail.com**
+- 📫 How to reach me: **zuhayersiddique162@gmail.com**
 
-<h3 align="left">Fun Fact: I love doing digital art. Check my Instagram to find out more -> </h3>
+<h3 align="left">Fun Fact: I love doing digital art. Check my Instagram to find out more ⬇ </h3>
 
 <p align="left">
  
