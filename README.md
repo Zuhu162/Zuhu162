@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Zuhayer Siddique</h1>
 <h3 align="center">Full-Stack (MERN) developer and Graphics Designer</h3>
 
-- 🌱 I’m currently learning **Redux, React Native**
+- 🌱 I’m currently learning **Kotlin*
 
 - 📫 How to reach me: **zuhayersiddique162@gmail.com**
 
