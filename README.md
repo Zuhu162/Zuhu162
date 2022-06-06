@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Zuhayer Siddique</h1>
 <h3 align="center">Full-Stack (MERN) developer and Graphics Designer</h3>
 
-- 🌱 I’m currently learning **Kotlin*
+- 🌱 I’m currently learning **Kotlin, GraphQL**
 
 - 📫 How to reach me: **zuhayersiddique162@gmail.com**
 
