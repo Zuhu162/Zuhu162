@@ -2,7 +2,7 @@
 <h3 align="center">On my way to become a Full-Stack (MERN) developer and Graphics Designer</h3>
 <h3 align="center">Portfolio: <a href="https://zuhu162.github.io/portfolio/"  target="_blank">https://zuhu162.github.io/portfolio/</a>
 
-- 🌱 I’m currently learning **Kotlin, GraphQL**
+- 🌱 I’m currently learning **React Native, GraphQL**
 
 - 📫 How to reach me: **zuhayersiddique162@gmail.com**
 
