@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Zuhayer Siddique</h1>
 <h3 align="center">On my way to become a Full-Stack (MERN) developer and Graphics Designer</h3>
-<h3 align="center">Portfolio: <a href="https://zuhu162.github.io/portfolio/"  target="_blank"></a>
+<h3 align="center">Portfolio: <a href="https://zuhu162.github.io/portfolio/"  target="_blank">https://zuhu162.github.io/portfolio/</a>
 
 - 🌱 I’m currently learning **Kotlin, GraphQL**
 
