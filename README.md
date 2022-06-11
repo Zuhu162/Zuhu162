@@ -4,7 +4,7 @@
 
 - 🌱 I’m currently learning **React Native, GraphQL**
 
-- 📫 How to reach me: **zuhayersiddique162@gmail.com**
+- 📫 Shoot me an email @: **zuhayersiddique162@gmail.com**
 
 <h3 align="left">Fun Fact: I love doing digital art. Check my Instagram to find out more ⬇ </h3>
 
