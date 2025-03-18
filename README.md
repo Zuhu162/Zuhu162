@@ -4,6 +4,4 @@
 
 📫 Shoot me an email @: **zuhayersiddique162@gmail.com**
 
-
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=zuhu162&show_icons=true&locale=en&layout=compact" alt="zuhu162" /></p>
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Zuhu162&layout=compact" alt="zuhu162" /></p>
