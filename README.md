@@ -4,3 +4,4 @@
 
 📫: **zuhayersiddique162@gmail.com**
 
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Zuhu162&layout=compact" alt="zuhu162" /></p>
